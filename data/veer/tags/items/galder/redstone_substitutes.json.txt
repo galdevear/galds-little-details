@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+      "redstone",
+      "copper_ingot"
+    ]
+  }

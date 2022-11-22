@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+      "item": "minecraft:leather_helmet"
+    },
+    "addition": {
+      "item": "minecraft:creeper_head"
+    },
+    "result": {
+      "item": "minecraft:creeper_head"
+    }
+  }
+  

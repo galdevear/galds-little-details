@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Gald's Details",
+        "description": "",
+        "icon": {
+            "item": "minecraft:heavy_weighted_pressure_plate"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:veer",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

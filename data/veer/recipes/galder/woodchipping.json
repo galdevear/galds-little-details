@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+      "tag": "veer:galder/woodchippable"
+    },
+    "result": "minecraft:stick",
+    "count": 2
+  }
+  

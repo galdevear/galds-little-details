@@ -1,0 +1,77 @@
+{
+  "display": {
+      "icon": {
+          "item": "minecraft:skeleton_skull"
+      },
+      "title": "Smithchant head",
+      "description": "Smith the enchantments from a leather helmet onto any type of head/skull. (destroys the leather helmet). Due to a glitch, for a player head smith it onto a leather helmet, enchant, then smith it back onto a player head.",
+      "announce_to_chat": true,
+      "show_toast": true
+  },
+  "parent": "minecraft:story/obtain_armor",
+  "criteria": {
+    "has_the_recipe1": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "veer:galder/smithing/smithchant/head/creeper"
+      }
+    },
+    "has_the_recipe2": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "veer:galder/smithing/smithchant/head/dragon"
+      }
+    },
+    "has_the_recipe3": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "veer:galder/smithing/smithchant/head/player"
+      }
+    },
+    "has_the_recipe4": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "veer:galder/smithing/smithchant/head/skeleton"
+      }
+    },
+    "has_the_recipe5": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "veer:galder/smithing/smithchant/head/store_player"
+      }
+    },
+    "has_the_recipe6": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "veer:galder/smithing/smithchant/head/wither_skeleton"
+      }
+    },
+    "has_the_recipe7": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "veer:galder/smithing/smithchant/head/zombie_head"
+      }
+    }
+  },
+  "requirements": [[
+    "has_the_recipe7",
+    "has_the_recipe6",
+    "has_the_recipe5",
+    "has_the_recipe4",
+    "has_the_recipe3",
+    "has_the_recipe2",
+    "has_the_recipe1"
+  ]],
+
+  "rewards": {
+    "recipes": [
+      "veer:galder/smithing/smithchant/head/creeper",
+      "veer:galder/smithing/smithchant/head/dragon",
+      "veer:galder/smithing/smithchant/head/player",
+      "veer:galder/smithing/smithchant/head/skeleton",
+      "veer:galder/smithing/smithchant/head/store_player",
+      "veer:galder/smithing/smithchant/head/wither_skeleton",
+      "veer:galder/smithing/smithchant/head/zombie_head"
+    ]
+  }
+}

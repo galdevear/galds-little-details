@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "observer",
+    "dispenser",
+    "dropper",
+    "carved_pumpkin",
+    "jack_o_lantern",
+    "chiseled_polished_blackstone",
+    "furnace",
+    "blast_furnace",
+    "smoker",
+    "end_portal_frame",
+    "beehive",
+    "bee_nest",
+    "jungle_fence",
+    "jungle_fence_gate"
+  ]
+}

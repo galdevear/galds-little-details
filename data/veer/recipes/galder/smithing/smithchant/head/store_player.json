@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+      "item": "minecraft:player_head"
+    },
+    "addition": {
+      "item": "minecraft:leather_helmet"
+    },
+    "result": {
+      "item": "minecraft:leather_helmet"
+    }
+  }
+  

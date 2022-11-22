@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "bricks",
+    "brick_stairs",
+    "brick_wall",
+    "brick_slab",
+    "mossy_cobblestone",
+    "mossy_cobblestone_slab",
+    "mossy_cobblestone_stairs",
+    "mossy_cobblestone_wall",
+    "mossy_stone_brick_slab",
+    "mossy_stone_brick_wall",
+    "mossy_stone_brick_stairs",
+    "mossy_stone_bricks",
+    "infested_mossy_stone_bricks"
+  ]
+}

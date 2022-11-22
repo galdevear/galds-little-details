@@ -1,0 +1,15 @@
+{
+   "pack": {
+     "pack_format": 10,
+     "description": "Gald's Tweaks"
+   },
+   "filter": {
+     "block": [
+       {
+         "namespace": "minecraft",
+         "path": "recipes/magma_cream.json"
+       }
+     ]
+   }
+ }
+ 

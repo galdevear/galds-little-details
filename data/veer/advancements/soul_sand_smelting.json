@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "veer:galder/smelting/cyan_stained_glass"
+      }
+    },
+    "has_soul_sand": {
+      "trigger": "inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["soul_sand", "soul_soil"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_soul_sand"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "veer:galder/smelting/cyan_stained_glass"
+    ]
+  }
+}

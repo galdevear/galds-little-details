@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "#veer:cracked",
+        "air",
+        "structure_void",
+        "cave_air",
+        "void_air"
+    ]
+}

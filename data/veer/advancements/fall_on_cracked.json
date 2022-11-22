@@ -1,0 +1,26 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:fall_from_height",
+        "conditions": {
+          "player": {
+            "stepping_on": {
+              "block": {
+                "tag": "veer:cracked"
+              }
+            }
+          },
+          "start_position": {},
+          "distance": {
+            "y": {
+              "min": 0.6
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+        "function": "veer:fall_on_cracked"
+    }
+  }
+  

@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "jungle_sapling",
+    "potted_jungle_sapling"
+  ]
+}

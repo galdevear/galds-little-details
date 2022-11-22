@@ -1,0 +1,32 @@
+{
+    "replace": false,
+    "values": [
+        "#boats",
+        "#buttons",
+        "#wooden_doors",
+        "lectern",
+        "bookshelf",
+        "#signs",
+        "#wooden_buttons",
+        "#wooden_fences",
+        "#wooden_pressure_plates",
+        "#wooden_slabs",
+        "#wooden_stairs",
+        "#wooden_trapdoors",
+        "#veer:galder/wooden_fence_gates",
+        "chest",
+        "barrel",
+        "composter",
+        "crafting_table",
+        "ladder",
+        "cartography_table",
+        "fletching_table",
+        "loom",
+        "#veer:galder/planks",
+        "tripwire_hook",
+        "trapped_chest",
+        "beehive",
+        "#veer:galder/wooden_tools",
+        "note_block"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "redstone_lamp",
+    "redstone_torch",
+    "redstone_ore",
+    "deepslate_redstone_ore",
+    "redstone_wall_torch"
+  ]
+}
