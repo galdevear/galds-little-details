@@ -5,6 +5,8 @@
         "air",
         "structure_void",
         "cave_air",
-        "void_air"
+        "void_air",
+        "water",
+        "lava"
     ]
 }

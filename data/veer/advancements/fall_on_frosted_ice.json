@@ -1,0 +1,26 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:fall_from_height",
+        "conditions": {
+          "player": {
+            "stepping_on": {
+              "block": {
+                "blocks": ["frosted_ice"]
+              }
+            }
+          },
+          "start_position": {},
+          "distance": {
+            "y": {
+              "min": 1.2
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+        "function": "veer:fall_on_frosted_ice"
+    }
+  }
+  
