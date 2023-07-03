@@ -14,7 +14,7 @@
                 "tag": "{BlockStateTag:{unstable:\"true\"}}",
                 "conditions": [
                     {
-                        "condition": "alternative",
+                        "condition": "any_of",
                         "terms": [
                             {
                                 "condition": "location_check",

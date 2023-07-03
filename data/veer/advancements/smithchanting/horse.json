@@ -4,7 +4,7 @@
         "item": "minecraft:iron_horse_armor"
     },
     "title": "Smithchanting horse armor",
-    "description": "Smith the enchantments from a chestplate onto horse armor of the matching type (this destroys the chestplate)",
+    "description": "Put an book, enchanted chestplate, and horse armor of the same type in a smithing table and smith the enchants onto the horse armor (destroys the chestplate and book)",
     "announce_to_chat": true,
     "show_toast": true
 },
